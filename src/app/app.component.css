@@ -40,9 +40,6 @@ button:disabled {
   color: #aaa;
   cursor: auto;
 }
-#buttonDashboard {
-  margin-right: 3vh;
-}
 
 /* everywhere else */
 * {
